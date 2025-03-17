@@ -4,7 +4,6 @@
 
 ERPDashboard is a Flutter project that serves as a foundational template for building a customizable and scalable enterprise resource planning (ERP) dashboard application. The project is designed to help developers quickly start building ERP solutions with a clean and maintainable codebase.
 
-![ERPDashboard Screenshot](assets/images/screenshot.png)
 
 ## Features
 
@@ -50,7 +49,11 @@ To get started with this project, follow the steps below:
 
 For a quick overview of the app, check out the demo video:
 
-[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+https://github.com/user-attachments/assets/5c75af1b-e009-4b06-aeb5-39e6434fb3de
+
+
+
 
 ---
 
